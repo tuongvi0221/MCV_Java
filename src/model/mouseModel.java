@@ -52,6 +52,13 @@ public class mouseModel {
         this.count ++;
     }
     
+    public void enter(){
+        System.out.println("Enter event");
+    }
+    
+    public void exit(){
+        
+    }
     
     
     
